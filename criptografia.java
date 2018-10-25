@@ -47,8 +47,8 @@ public class Teste {
     }
 	
     public static void main(String[] args) {
-    	System.out.println(encrypt("30580911845"));
-    	System.out.println(decrypt(encrypt("30580911845")));
+    	System.out.println(encrypt("30280911845"));
+    	System.out.println(decrypt(encrypt("30280911845")));
     	//System.out.println(decrypt("AwFYicMu0luEbCiPoA2rDUbrug=="));
     }
 
